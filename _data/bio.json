@@ -1,57 +1,57 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Matthew Calulot",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://mattehue808.github.io/images/PXL_20210522_015839386.jpg",
+    "email": "calulotm@hawaii.edu",
+    "phone": "808-429-4945",
+    "website": "https://mattehue808.github.io/",
+    "summary": "I am studying for a Bachelors in Marketing in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "94-1046 Hoohele St",
+      "postalCode": "96797",
+      "city": "Waipahu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "mattehue808",
+        "url": "https://github.com/MatteHue808"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Matthew Calulot",
+        "url": "https://www.linkedin.com/in/matthew-calulot-6490a0218/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "matte_hue808",
+        "url": "https://twitter.com/matte_hue808"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "matte.huec",
+        "url": "https://www.instagram.com/matte.huec/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "writing",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "guitar",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "technology",
       "keywords": [
       ]
     }
