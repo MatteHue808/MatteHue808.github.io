@@ -1,169 +1,161 @@
 {
-  "basics": {
-    "name": "Matthew Calulot",
-    "label": "Student",
-    "picture": "https://mattehue808.github.io/images/PXL_20210522_015839386.jpg",
-    "email": "calulotm@hawaii.edu",
-    "phone": "808-429-4945",
-    "website": "https://mattehue808.github.io/",
-    "summary": "I am studying for a Bachelors in Marketing in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2023.",
-    "location": {
-      "address": "94-1046 Hoohele St",
-      "postalCode": "96797",
-      "city": "Waipahu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+    "basics": {
+      "name": "Matthew Calulot",
+      "label": "Shidler Undergraduate",
+      "picture": "https://mattehue808.github.io/images/PXL_20210522_015839386.jpg",
+      "email": "calulotm@hawaii.edu",
+      "phone": "808-429-4945",
+      "website": "https://mattehue808.github.io/",
+      "summary": "I am studying for a Bachelors in Marketing in the Shidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2023.",
+      "location": {
+        "address": "94-1046 Hoohele St",
+        "postalCode": "96797",
+        "city": "Waipahu",
+        "countryCode": "USA",
+        "region": "Hawaii"
+      },
+      "profiles": [
+        {
+          "network": "github",
+          "username": "mattehue808",
+          "url": "https://github.com/MatteHue808"
+        },
+        {
+          "network": "linkedin",
+          "username": "Matthew Calulot",
+          "url": "https://www.linkedin.com/in/matthew-calulot-6490a0218/"
+        },
+        {
+          "network": "twitter",
+          "username": "matte_hue808",
+          "url": "https://twitter.com/matte_hue808"
+        },
+        {
+          "network": "instagram",
+          "username": "matte.huec",
+          "url": "https://www.instagram.com/matte.huec/"
+        }
+      ]
     },
-    "profiles": [
+    "interests": [
       {
-        "network": "github",
-        "username": "mattehue808",
-        "url": "https://github.com/MatteHue808"
+        "name": "writing",
+        "keywords": [
+        ]
       },
       {
-        "network": "linkedin",
-        "username": "Matthew Calulot",
-        "url": "https://www.linkedin.com/in/matthew-calulot-6490a0218/"
+        "name": "guitar",
+        "keywords": [
+        ]
       },
       {
-        "network": "twitter",
-        "username": "matte_hue808",
-        "url": "https://twitter.com/matte_hue808"
+        "name": "technology",
+        "keywords": [
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Technical Skills",
+        "level": "",
+        "keywords": [
+          "Microsoft Excel",
+          "Microsoft Word",
+          "Microsoft Powerpoint",
+          "Canva",
+          "Google Workspace"
+        ]
       },
       {
-        "network": "instagram",
-        "username": "matte.huec",
-        "url": "https://www.instagram.com/matte.huec/"
+        "name": "Soft Skills",
+        "level": "",
+        "keywords": [
+          "Writing and Editing",
+          "Academic Proofreading",
+          "Customer Service",
+          "Quick Learner",
+          "Interpersonal Communication"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Hawaii, Honolulu, HI",
+        "area": "Marketing (expected Spring, 2023)",
+        "studyType": "B.A.",
+        "startDate": "2019-08-23",
+        "endDate": "Present",
+        "gpa": "3.98",
+        "courses": [
+        ]
+      }
+    ],
+    "work": [
+      {
+        "company": "Levi's",
+        "position": "Sales Stylist",
+        "website": "",
+        "startDate": "October 2018",
+        "endDate": "August 2019",
+        "summary": "Part-time sales stylist at the Waikele Outlet Store",
+        "highlights": [
+          "Identified clients’ needs and helped find clothing that suits their body types.",
+          "Provided product details including fabrics, wash care, instructions, prices, and discounts."
+        ]
+      },
+      {
+        "company": "Great River Learning",
+        "position": "Online Textbook Editor",
+        "website": "",
+        "startDate": "May 2020",
+        "endDate": "September 2020",
+        "summary": "Worked as a student editor and proofreader for a business law professor",
+        "highlights": [
+          "Formulated multiple choice and short answer questions for future students to answer through online quizzes.",
+          "Collaborated with a law professor to create new online content related to the subject matter."
+        ]
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "Hawaii Literacy Bookmobile",
+        "website": "https://www.hawaiiliteracy.org/bookmobile",
+        "position": "Bookmobile Volunteer Helper",
+        "startDate": "September 2019",
+        "endDate": "April 2020",
+        "summary": "Assisted with duties for Hawaii Literacy's Bookmobile program in Honolulu.",
+        "highlights": [
+          "Assisted manager with general maintenance and supervision of the Bookmobile bus.",
+          "Read stories, offer homework tutoring, and recreational activities to more than 40 kids in low income neighborhoods grade K-6th.",
+          "Tracked reading time and facilitated discussion between kids after school."
+        ]
+      },
+      {
+        "organization": "International Business Organization",
+        "website": "https://www.ibouhm.com/",
+        "position": "Professional organization involvement",
+        "startDate": "2019",
+        "endDate": "2021",
+        "summary": "Active club member and later, executive board member",
+        "highlights": [
+          "Active Member, IBO, 2019-Present",
+          "Director of Philanthropy, IBO, Fall 2020",
+          "Director of International Affairs, IBO, UH Manoa, Spring 2021"
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "Dean's List",
+        "date": "2019-Present",
+        "awarder": "University of Hawaii at Manoa",
+        "summary": ""
+      }
+    ],
+    "references": [
+      {
+        "name": "Available upon request",
+        "reference": ""
       }
     ]
-  },
-  "interests": [
-    {
-      "name": "writing",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "guitar",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "technology",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
-}
+  }
