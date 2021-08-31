@@ -12,5 +12,5 @@ Hello everyone! My name is Matthew, but you can just call me Matt. I am currentl
 
 I have many friends from high school and university who are taking computer science, and the things that they create always amaze me. Personally, I would like to create something to aid in my Dungeons & Dragons (D&D) campaigns - which is a table top roleplaying game you might've first seen in the TV show "Stranger Things" - and also build a website to showcase my writing portfolio. 
 
-I'm not sure whether I want to be a developer, however, I am willing to take a peek. After all, it's always good to build up one's hard skills. It's very nice to meet you all.  
+I'm not sure whether I want to be a developer, but I am willing to take a peek. After all, it's always good to build up one's hard skills. It's a pleasure to meet you all!
 
