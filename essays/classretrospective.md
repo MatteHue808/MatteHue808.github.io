@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: E6 Checkpoint Assignment 3
+title: Evaluation Guidelines and Class Retrospective BLOG
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-14
 labels:
