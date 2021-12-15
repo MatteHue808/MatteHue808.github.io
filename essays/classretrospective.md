@@ -24,6 +24,7 @@ labels:
 <h2>8. Describe what did not work well in doing this assignment?</h2>
 
 <h2>9. What did you learn from doing this assignment?</h2>
+I think most of all, what I learned from this assignment and what I learned from this class overall is to LEARN HOW TO MANAGE YOUR TIME BETTER. 
 
 <h2>10. If you could go back in time and do things differently, what would you change?</h2>
 
