@@ -14,7 +14,7 @@ What I made is a fountain pen store that sells a variety of fountains pens of di
 Some shortcomings that I would like to fix include not being able to remove and add quantities from the invoice itself. Furthermore, I would like to put a working system where you can see the number of items in your cart. 
 
 <h2>3. Describe what you are most proud of about your system:</h2>
-I think that the thing I'm most proud of in my system is the cart functionality. Even with its flaws, I think I surprised myself by being able to work it out and create and actual cart system that can take different brands of products with different quantities. 
+I think that the thing I'm most proud of in my system is the cart functionality. Even with its flaws, I think I surprised myself by being able to work it out and create and actual cart system that can take different brands of products with different quantities. After I had got it working--that's when I truly knew that my skill had progressed since Assignment 1. 
 
 <h2>4. Describe what you are least happy with your system:</h2> 
 The thing that I am least happy with my system in being unable to remove quantities from the invoice. I think that would be really convenient for the consumer; every store has it after all, and it would especially be appropriate for a fountain pen store because of how expensive these items can get. It can be a difference between $10.00 and $100.00 totals--which in turn affects whether you get free shipping or not. 
@@ -23,7 +23,7 @@ The thing that I am least happy with my system in being unable to remove quantit
 Developing this assignment was different than assignment 2 because instead of spending time writing new, unique code, I instead had to just adapt it using sessions and cookies. As a result, I spent more time thinking about how I wanted my cart system to work. Additionally, I had to be more cognizant of the UI. I wanted to keep the current aesthetic, but I actually spent a lot of time ruminating about how the navigation bar would look like. Funnily enough, I used a token maker from my other hobby: Dungeons & Dragons, to create buttons for the nav bar. 
 
 <h2>6. When you ran into a problem, what did you do to address it?</h2>
-I actually did receive more help from a previous student in ITM 352. I also worked with Professor Port for a bit for fixing a functionality regarding the inventory. Much of the time though, I spent perusing the previous labs, especially the Assignment 3 code examples and the few final labs. 
+I actually did receive more help from a previous student in ITM 352. I also worked with Professor Port for a bit for fixing a functionality regarding the inventory. Much of the time though, I spent perusing the previous labs, especially the Assignment 3 code examples and the few final labs. One idiosyncracy I did run into was getting node-mailer to work. I fixed it simply by reading the documentation (duh, Matthew!)
 
 <h2>7. Describe what worked well in doing this assignment?</h2>
 Making the user data transient through cookies and sessions worked well, and I also liked how I did the design of the navigation bar. The cart itself worked well enough too! I also think that the nodemailer aspect of the assignment works as well, and I included added security measures for hawaii.edu emails as well. Adding different brands of products also worked too.
